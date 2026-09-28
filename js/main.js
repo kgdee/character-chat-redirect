@@ -1,0 +1,1 @@
+window.location.href = "https://kgdee-character-chat.netlify.app";
